@@ -96,8 +96,4 @@ Visualizations help understand class imbalance and demographic distributions.
 - Include lesion segmentation as preprocessing
 - Add explainability (e.g., Grad-CAM)
 
----
 
-## 📄 License
-
-This project is for academic and research purposes. If you use it, please cite the HAM10000 dataset and acknowledge the author(s).
